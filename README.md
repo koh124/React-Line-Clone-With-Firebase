@@ -1,1 +1,1 @@
-Reactのhooksを学習するサンプル
+React + FirebaseでLINEクローンアプリを作成
