@@ -1,1 +1,2 @@
 React + FirebaseでLINEクローンアプリを作成
+認証方法はGoogleでログイン
